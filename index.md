@@ -1,4 +1,5 @@
 ![Recover by David Ambarzumjan](./recover.jpg)
+*Recover by David Ambarzumjan*
 
 ## The project and its origins
 
