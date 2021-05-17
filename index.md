@@ -1,7 +1,6 @@
 # Looking Glass
 
-![Recover by David Ambarzumjan]
-(https://images.squarespace-cdn.com/content/v1/5ac2bd4a1aef1dfa3a1d084e/1584299046319-4QYLAXIO1M6O1RRDU2B7/ke17ZwdGBToddI8pDm48kMqpXNQ6rpPb0ENTYerk9h17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0gycmlYrUNOm5FlGNDjMZJjuw7Chj7Kx_o9Ax6YkRbPAiJtaS2_TXUoYA42s2PFWog/David+Ambarzumjan)
+![Recover by David Ambarzumjan](./recover.jpg)
 
 ## The project and its origins
 
