@@ -1,5 +1,3 @@
-# Looking Glass
-
 ![Recover by David Ambarzumjan](./recover.jpg)
 
 ## The project and its origins
