@@ -14,20 +14,10 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title }}</h1>
+        <h1> <a href="https://ajarian.github.io/looking-glass">{{ site.title }}</a></h1>
         
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
-        <a href="https://ajarian.github.io/looking-glass">Home</a>
-        <br />
         <a href="https://ajarian.github.io/looking-glass/statement-of-purpose.html">Statement of Purpose</a>
       </header>
       <section>
