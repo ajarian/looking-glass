@@ -1,0 +1,41 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$coral: #d97778;
+$sunray: #EDAE49;
+$charcoal: #36413E;
+$blue: #AFD2E9;
+$ivory: #FFF;
+
+body {
+  background-color: $ivory;
+}
+
+.nav-menu-item {
+  margin-bottom: 5px;
+}
+
+.active-link {
+  cursor: default;
+  color: $charcoal !important;
+}
+
+.active-link:hover {
+  color: $charcoal;
+}
+
+a:hover {
+  font-weight: inherit;
+  color: $coral;
+}
+
+p { 
+  color: $charcoal;
+}
+
+a {
+  color: $coral;
+}
+
