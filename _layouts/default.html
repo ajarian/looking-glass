@@ -38,6 +38,7 @@
     <script>
       function updateLinks() {
         const routeDirectory = {
+          home: '/looking-glass/',
           statement: '/looking-glass/statement-of-purpose.html',
           artifacts: '/looking-glass/inspiring-artifacts.html'
         };
@@ -45,7 +46,7 @@
         const currentLocation = window.location.pathname;
         const links = document.querySelectorAll('#nav-link');
 
-        if (links && currentLocation.length === 1) {
+        if (links && currentLocation === routeDirectory.home) {
           links[0].className = 'active-link';
         } 
         if (links && currentLocation === routeDirectory.statement) {
