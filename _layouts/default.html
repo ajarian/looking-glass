@@ -14,15 +14,15 @@
   <body onload="updateLinks()">
     <div class="wrapper">
       <header>
-        <h1> <a id="nav-link" href="/">{{ site.title }}</a></h1>
+        <h1> <a id="nav-link" href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <hr>
         <div class="nav-menu-item">
-          <a id="nav-link" href="https://ajarian.github.io/looking-glass/statement-of-purpose.html">Statement of Purpose</a>
+          <a id="nav-link" href="{{ "/statement-of-purpose.html" | relative_url }}">Statement of Purpose</a>
         </div>
         <div class="nav-menu-item">
-          <a id="nav-link" href="https://ajarian.github.io/looking-glass/inspiring-artifacts.html">Inspiring Artifacts</a>
+          <a id="nav-link" href="{{ "/inspiring-artifacts.html" | relative_url }}">Inspiring Artifacts</a>
         </div>
       </header>
       <section>
