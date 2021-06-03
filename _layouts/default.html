@@ -50,9 +50,11 @@
         } 
         if (links && currentLocation === routeDirectory.statement) {
           links[1].className = 'active-link';
+          links[1].innerHTML = '> ' + links[1].innerHTML; 
         }
         if (links && currentLocation === routeDirectory.artifacts) {
           links[2].className = 'active-link';
+          links[2].innerHTML = '> ' + links[2].innerHTML;
         }
       }
     </script>
