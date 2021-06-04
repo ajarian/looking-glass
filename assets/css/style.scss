@@ -17,6 +17,10 @@ body {
   margin-bottom: 5px;
 }
 
+.nav-menu-item:last-child {
+  margin-bottom: 20px;
+}
+
 .active-link {
   cursor: default;
   color: $charcoal !important;
@@ -41,4 +45,11 @@ a {
 
 blockquote {
   font-size: 16px;
+}
+
+// desktop styles
+@media screen and (min-width: 965px) {
+  .nav-menu-item:last-child {
+    margin-bottom: 0;
+  }
 }
