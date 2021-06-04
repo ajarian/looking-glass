@@ -1,5 +1,8 @@
 ## The Project and its Origins
 
+![StreetWorks Market Plan for East Liberty](./images/streetworks.png)
+[*Black Homes Matter* - Pittsburgh Fair Development Action Group](https://prrac.org/pdf/Black_Homes_Matter-Pittsburgh.pdf)
+
 When I moved to Pittsburgh in 2017, my new neighbors made it a point to inform me of the shifting landscape between the city’s three rivers. Time and again, revitalization projects and sites of “innovation” had consistently treated Black residents with little regard. Neighborhoods that residents had known for decades were being forcefully transformed in the interest of maximizing profits for land owners. As I spoke with more people, read more accounts and walked through more spaces, I learned that the marks of gentrification are especially vicious and repugnant in East Liberty.
 
 Gentrification not only displaces vulnerable people but it also furthers the erasure of precious history and culture. In this country, where being Black requires perpetually wrestling with a centuries-long disinformation campaign, knowledge of the past and sites of memory possess tremendous offensive and defensive value.
