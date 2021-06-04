@@ -2,16 +2,16 @@
 
 <br />
 ![There Are Black People In The Future (East Liberty) - Alisha B. Wormsley, 2018](https://media2.fdncms.com/pittsburgh/imager/u/blog/7579624/alisha-billboard.jpg?cb=1568227521)
-*There Are Black People In The Future (East Liberty) - Alisha B. Wormsley, 2018*
+[*There Are Black People In The Future (East Liberty) - Alisha B. Wormsley, 2018*](https://www.pghcitypaper.com/Blogh/archives/2018/04/05/there-are-black-people-in-the-future-text-removed-from-east-liberty-public-art-project-at-behest-of-landlord)
 
 ![Pittsburgh Friends of COFO Freedom Center - Charles "Teenie" Harris](https://cmoa-collection-images.s3.amazonaws.com/teenie/27379/sizes/20353-1680.jpg)
-*Pittsburgh Friends of COFO Freedom Center - Charles "Teenie" Harris*
+[*Pittsburgh Friends of COFO Freedom Center - Charles "Teenie" Harris*](https://collection.cmoa.org/objects/e58baae3-ae12-41f1-878d-1e7f37d824e6)
 
 ![Friends of SNCC, Pittsburgh Friends of COFO Address](./images/friends-of-sncc.png)
-*Pittsburgh Friends of COFO Address, 1965*
+[*Pittsburgh Friends of COFO Address, 1965*](https://www.crmvet.org/docs/650600_sncc_foslist.pdf)
 
 ![Don Hamer, COFO Organizer, escapes bombing](./images/don-hamer.png)
-*Don Hamer, COFO Organizer, escapes bombing*
+[*Don Hamer, COFO Organizer, escapes bombing*](https://www.newspapers.com/clip/2027674/pg-aug-10-1964/)
 
 ![145 S Highland Street Today](./images/s-highland.png)
 *145 S Highland Street Today*
