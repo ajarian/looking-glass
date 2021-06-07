@@ -21,5 +21,4 @@
 [History of the Pittsburgh Musicians' Union Local No. 471](http://exhibit.library.pitt.edu/labor_legacy/MusiciansHistory471.htm)
 
 ![Equitable Development Conference Protest - 2015](https://media1.fdncms.com/pittsburgh/imager/u/original/1834737/photo_1.jpg)
-*Equitable Development Conference Protest - 2015*<br/>
-[Officials say East Liberty is among best examples of city's 'renaissance,' residents disagree](https://www.pghcitypaper.com/Blogh/archives/2015/06/18/officials-say-east-liberty-is-among-best-examples-of-citys-renaissance-residents-disagree)
+[*Equitable Development Conference Protest - 2015*](https://www.pghcitypaper.com/Blogh/archives/2015/06/18/officials-say-east-liberty-is-among-best-examples-of-citys-renaissance-residents-disagree)
