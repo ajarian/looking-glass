@@ -8,7 +8,7 @@
 [*Pittsburgh Friends of COFO Freedom Center - Charles "Teenie" Harris*](https://collection.cmoa.org/objects/e58baae3-ae12-41f1-878d-1e7f37d824e6)
 
 ![Don Hamer, COFO Organizer, escapes bombing](./images/don-hamer.png)
-[*Don Hamer, COFO Organizer, escapes bombing*](https://www.newspapers.com/clip/2027674/pg-aug-10-1964/)
+[*Don Hamer, Pittsburgh Friends of COFO Organizer, escapes bombing*](https://www.newspapers.com/clip/2027674/pg-aug-10-1964/)
 
 ![Pittsburgh Friends of COFO Address, 1965](./images/friends-of-sncc.png)
 [*Pittsburgh Friends of COFO Address, 1965*](https://www.crmvet.org/docs/650600_sncc_foslist.pdf)
