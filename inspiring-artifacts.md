@@ -7,14 +7,14 @@
 ![Pittsburgh Friends of COFO Freedom Center - Charles "Teenie" Harris](https://cmoa-collection-images.s3.amazonaws.com/teenie/27379/sizes/20353-1680.jpg)
 [*Pittsburgh Friends of COFO Freedom Center - Charles "Teenie" Harris*](https://collection.cmoa.org/objects/e58baae3-ae12-41f1-878d-1e7f37d824e6)
 
-![Friends of SNCC, Pittsburgh Friends of COFO Address](./images/friends-of-sncc.png)
-[*Pittsburgh Friends of COFO Address, 1965*](https://www.crmvet.org/docs/650600_sncc_foslist.pdf)
-
 ![Don Hamer, COFO Organizer, escapes bombing](./images/don-hamer.png)
 [*Don Hamer, COFO Organizer, escapes bombing*](https://www.newspapers.com/clip/2027674/pg-aug-10-1964/)
 
-![145 S Highland Street Today](./images/s-highland.png)
-*145 S Highland Street Today*
+![Pittsburgh Friends of COFO Address, 1965](./images/friends-of-sncc.png)
+[*Pittsburgh Friends of COFO Address, 1965*](https://www.crmvet.org/docs/650600_sncc_foslist.pdf)
+
+![145 S. Highland Avenue Today](./images/s-highland.png)
+[*145 S. Highland Avenue Today*](https://www.google.com/maps/place/T-Mobile/@40.459516,-79.9250653,3a,75y,270.94h,71.56t/data=!3m6!1e1!3m4!1sTDVQ-Sjn43PEsO8hSB_HfA!2e0!7i16384!8i8192!4m13!1m7!3m6!1s0x887f81353f99f039:0x1b781340c3643b21!2s145+S+Highland+St,+Memphis,+TN+38111!3b1!8m2!3d35.127891!4d-89.9453686!3m4!1s0x8834f2737cbc0f0f:0x32db4b00d8035660!8m2!3d40.4595596!4d-79.9253779)
 
 ![Local 471 - Charles "Teenie" Harris](https://cmoa-collection-images.s3.amazonaws.com/teenie/39585/sizes/33246-1680.jpg)
 [*Local 471 - Charles "Teenie" Harris*](https://collection.cmoa.org/objects/67633cad-fb78-41b5-bc31-fd2095687ab9)<br/>
