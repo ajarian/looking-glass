@@ -1,3 +1,5 @@
+## A Glimpse into the Archive
+
 > “The process of __remembering__ can be a practice which ‘transforms history from a judgement on the past in the name of a present truth to a __counter-memory__ that combats our current modes of truth and justice, helping us to understand and change the present by placing it in a new relation to the past’” - bell hooks
 
 <br />
