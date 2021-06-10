@@ -1,4 +1,4 @@
-## The Project and its Origins
+## The Project and Its Origins
 
 ![StreetWorks Market Plan for East Liberty](./images/streetworks.png)
 [*Black Homes Matter* - Pittsburgh Fair Development Action Group](https://prrac.org/pdf/Black_Homes_Matter-Pittsburgh.pdf)
