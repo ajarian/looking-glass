@@ -24,6 +24,9 @@
         <div class="nav-menu-item">
           <a id="nav-link" href="{{ "/inspiring-artifacts.html" | relative_url }}">Inspiring Artifacts</a>
         </div>
+        <div class="nav-menu-item">
+          <a id="nav-link" href="{{ "/work-in-progress.html" | relative_url }}">The Work in Progress</a>
+        </div>
       </header>
       <section>
 
@@ -40,7 +43,8 @@
         const routeDirectory = {
           home: '/looking-glass/',
           statement: '/looking-glass/statement-of-purpose.html',
-          artifacts: '/looking-glass/inspiring-artifacts.html'
+          artifacts: '/looking-glass/inspiring-artifacts.html',
+          work: '/looking-glass/work-in-progress.html',
         };
 
         const currentLocation = window.location.pathname;
@@ -56,6 +60,10 @@
         if (links && currentLocation === routeDirectory.artifacts) {
           links[2].className = 'active-link';
           links[2].innerHTML = '> ' + links[2].innerHTML;
+        }
+        if (links && currentLocation === routeDirectory.work) {
+          links[3].className = 'active-link';
+          links[3].innerHTML = '> ' + links[3].innerHTML;
         }
       }
     </script>
