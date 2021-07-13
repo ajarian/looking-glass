@@ -14,4 +14,4 @@
 
 ![Mocked design of a digital monument memorializing Pittsburgh Friends of COFO office](./images/mocks/cofo-1.png)
 
-![Mocked design of a plaque with information Pittsburgh Friends of COFO office](./images/mocks/cofo-2.png)
+![Mocked design of a plaque with information on Pittsburgh Friends of COFO office](./images/mocks/cofo-2.png)
