@@ -11,7 +11,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   </head>
-  <body onload="updateLinks()">
+  <body>
     <div class="wrapper">
       <header>
         <h1> <a id="nav-link" href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
@@ -39,6 +39,10 @@
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script>
+      window.addEventListener('DOMContentLoaded', (event) => {
+        updateLinks();
+      });
+      
       function updateLinks() {
         const routeDirectory = {
           home: '/looking-glass/',
