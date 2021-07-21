@@ -3,7 +3,7 @@
 > “The process of __remembering__ can be a practice which ‘transforms history from a judgement on the past in the name of a present truth to a __counter-memory__ that combats our current modes of truth and justice, helping us to understand and change the present by placing it in a new relation to the past’” - bell hooks
 
 <br />
-![There Are Black People In The Future (East Liberty) - Alisha B. Wormsley, 2018](https://media2.fdncms.com/pittsburgh/imager/u/blog/7579624/alisha-billboard.jpg?cb=1568227521)<br/>
+![There Are Black People In The Future (East Liberty) - Alisha B. Wormsley, 2018](./images/alisha-billboard.png)<br/>
 [*There Are Black People In The Future (East Liberty) - Alisha B. Wormsley, 2018*](https://www.pghcitypaper.com/Blogh/archives/2018/04/05/there-are-black-people-in-the-future-text-removed-from-east-liberty-public-art-project-at-behest-of-landlord)
 
 ![Pittsburgh Friends of COFO Freedom Center - Charles "Teenie" Harris](https://cmoa-collection-images.s3.amazonaws.com/teenie/27379/sizes/20353-1680.jpg)
