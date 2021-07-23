@@ -1,14 +1,14 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 $coral: #d97778;
 $sunray: #EDAE49;
 $charcoal: #36413E;
 $blue: #AFD2E9;
 $ivory: #FFF;
 $desktop: 961px;
+
+@import "{{ site.theme }}";
 
 body {
   background-color: $ivory;
