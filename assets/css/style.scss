@@ -8,54 +8,17 @@ $sunray: #EDAE49;
 $charcoal: #36413E;
 $blue: #AFD2E9;
 $ivory: #FFF;
-$desktop: 961px;
 
 body {
   background-color: $ivory;
-  padding: 16px;
-
-  @media screen and (min-width: 768px) {
-    padding: 48px;
-  }
-}
-
-h1 {
-  font-size: 32px;
-}
-
-h2, h3 {
-  margin-bottom: 24px;
-}
-
-hr {
-  margin-bottom: 24px;
-}
-
-p {
-  margin-bottom: 24px;
-  color: $charcoal;
-}
-
-section {
-  padding: 24px 0;
-  margin-bottom: 24px;
-
-  @media screen and (min-width: $desktop) {
-    padding: 9px 0 0 0;
-    margin-bottom: 0;
-  }
 }
 
 .nav-menu-item {
-  margin-bottom: 8px;
+  margin-bottom: 5px;
 }
 
 .nav-menu-item:last-child {
-  margin-bottom: 24px;
-
-  @media screen and (min-width: $desktop) {
-    margin-bottom: 0;
-  }
+  margin-bottom: 20px;
 }
 
 .active-link {
@@ -72,10 +35,21 @@ a:hover {
   color: $coral;
 }
 
+p { 
+  color: $charcoal;
+}
+
 a {
   color: $coral;
 }
 
 blockquote {
   font-size: 16px;
+}
+
+// desktop styles
+@media screen and (min-width: 965px) {
+  .nav-menu-item:last-child {
+    margin-bottom: 0;
+  }
 }
