@@ -22,8 +22,8 @@
 
 ### 1.28.21 - The Earliest Brainstorming
 
-![My handwritten answers to a question posed by myself, what are the things that disempower?](./images/mocks/what-disempowers.jpg)
+![My handwritten answers to a question posed by myself, what are the things that disempower?](./images/wip/what-disempowers.jpg)
 
-![My handwritten notes considering the possibility of using AR to reveal buried history](./images/mocks/idea-spark.jpg)
+![My handwritten notes considering the possibility of using AR to reveal buried history](./images/wip/idea-spark.jpg)
 
 ![My first sketch of Looking Glass in action](./images/wip/first-sketch.jpg)
