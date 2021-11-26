@@ -1,6 +1,6 @@
 ## Research and Development
 
-### Early and Rough Designs
+### Rough Designs of the Experience 
 
 ![Mocked design of starting screen in the application](./images/mocks/starting-view.png)
 
@@ -20,7 +20,7 @@
 
 ![My handwritten answers to questions posed by a theory of change template](./images/wip/theory-of-change.jpg)
 
-### 1.28.21 - The Earliest Brainstorming
+### The Earliest Brainstorming
 
 ![My handwritten answers to a question posed by myself, what are the things that disempower?](./images/wip/what-disempowers.jpg)
 
