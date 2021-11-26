@@ -1,6 +1,6 @@
 ## Research and Development
 
-### 7.12.21 - How It'll Work (Roughly)
+### Early and Rough Designs
 
 ![Mocked design of starting screen in the application](./images/mocks/starting-view.png)
 
@@ -16,7 +16,7 @@
 
 ![Mocked design of a plaque with information on Pittsburgh Friends of COFO office](./images/mocks/cofo-2.png)
 
-### 4.7.21 - Theory of Change Mapping
+### Theory of Change Mapping
 
 ![My handwritten answers to questions posed by a theory of change template](./images/wip/theory-of-change.jpg)
 
