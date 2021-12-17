@@ -15,17 +15,20 @@
 ![Pittsburgh Friends of COFO Address, 1965](./images/friends-of-sncc.png)
 [*Pittsburgh Friends of COFO Address, 1965*](https://www.crmvet.org/docs/650600_sncc_foslist.pdf)
 
-![145 S. Highland Avenue Today](./images/s-highland.png)
-[*145 S. Highland Avenue Today*](https://www.google.com/maps/place/T-Mobile/@40.459516,-79.9250653,3a,75y,270.94h,71.56t/data=!3m6!1e1!3m4!1sTDVQ-Sjn43PEsO8hSB_HfA!2e0!7i16384!8i8192!4m13!1m7!3m6!1s0x887f81353f99f039:0x1b781340c3643b21!2s145+S+Highland+St,+Memphis,+TN+38111!3b1!8m2!3d35.127891!4d-89.9453686!3m4!1s0x8834f2737cbc0f0f:0x32db4b00d8035660!8m2!3d40.4595596!4d-79.9253779)
+![145 S. Highland Avenue, 2021](./images/s-highland.png)
+[*145 S. Highland Avenue, 2021*](https://www.google.com/maps/place/T-Mobile/@40.459516,-79.9250653,3a,75y,270.94h,71.56t/data=!3m6!1e1!3m4!1sTDVQ-Sjn43PEsO8hSB_HfA!2e0!7i16384!8i8192!4m13!1m7!3m6!1s0x887f81353f99f039:0x1b781340c3643b21!2s145+S+Highland+St,+Memphis,+TN+38111!3b1!8m2!3d35.127891!4d-89.9453686!3m4!1s0x8834f2737cbc0f0f:0x32db4b00d8035660!8m2!3d40.4595596!4d-79.9253779)
 
-![Local 471 - Charles "Teenie" Harris](https://cmoa-collection-images.s3.amazonaws.com/teenie/39585/sizes/33246-1680.jpg)
-[*Local 471 - Charles "Teenie" Harris*](https://collection.cmoa.org/objects/67633cad-fb78-41b5-bc31-fd2095687ab9)<br/>
+![Exterior of Musician’s Club, Local 471, at Frankstown Avenue and Enterprise Street - Charles "Teenie" Harris](https://cmoa-collection-images.s3.amazonaws.com/teenie/39586/sizes/33247-1680.jpg)
+[*Exterior of Musician’s Club, Local 471, at Frankstown Avenue and Enterprise Street - Charles "Teenie" Harris*](https://collection.cmoa.org/objects/ac18a982-bba9-41d4-a0db-dc4fbd5d7e4d)<br/>
 
 ![Paragraph from the University of Pittsburgh's History of Local 471](./images/history-471.png)
 [History of the Pittsburgh Musicians' Union Local No. 471](http://exhibit.library.pitt.edu/labor_legacy/MusiciansHistory471.htm)
 
 ![The African American Jazz Preservation Society of Pittsburgh's Oral History of Local 471](./images/aajazz.png)
 [The African American Jazz Preservation Society of Pittsburgh's Oral History of Local 471](https://historicpittsburgh.org/islandora/object/pitt%3AUS-PPiU-ais199804/viewer)
+
+![Frankstown Avenue and Enterprise Street, 2021](./images/frankstown-enterprise.png)
+Frankstown Avenue and Enterprise Street, 2021
 
 ![Jamil Brookins](./images/jamil-brookins.png)
 [Tribute to East Liberty community leader Jamil Brookins](https://www.maitrimedicinals.com/blog/2020/2/29/tribute-to-east-liberty-community-leader-jamil-brookins)
