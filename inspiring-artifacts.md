@@ -21,14 +21,14 @@
 ![Exterior of Musician’s Club, Local 471, at Frankstown Avenue and Enterprise Street - Charles "Teenie" Harris](https://cmoa-collection-images.s3.amazonaws.com/teenie/39586/sizes/33247-1680.jpg)
 [*Exterior of Musician’s Club, Local 471, at Frankstown Avenue and Enterprise Street - Charles "Teenie" Harris*](https://collection.cmoa.org/objects/ac18a982-bba9-41d4-a0db-dc4fbd5d7e4d)<br/>
 
+![Frankstown Avenue and Enterprise Street, 2021](./images/frankstown-enterprise.png)<br />
+*Frankstown Avenue and Enterprise Street, 2021*
+
 ![Paragraph from the University of Pittsburgh's History of Local 471](./images/history-471.png)
 [*History of the Pittsburgh Musicians' Union Local No. 471*](http://exhibit.library.pitt.edu/labor_legacy/MusiciansHistory471.htm)
 
 ![The African American Jazz Preservation Society of Pittsburgh's Oral History of Local 471](./images/aajazz.png)
 [*The African American Jazz Preservation Society of Pittsburgh's Oral History of Local 471*](https://historicpittsburgh.org/islandora/object/pitt%3AUS-PPiU-ais199804/viewer)
-
-![Frankstown Avenue and Enterprise Street, 2021](./images/frankstown-enterprise.png)<br />
-*Frankstown Avenue and Enterprise Street, 2021*
 
 ![Jamil Brookins](./images/jamil-brookins.png)
 [*Tribute to East Liberty community leader Jamil Brookins*](https://www.maitrimedicinals.com/blog/2020/2/29/tribute-to-east-liberty-community-leader-jamil-brookins)
