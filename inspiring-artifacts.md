@@ -22,19 +22,19 @@
 [*Exterior of Musician’s Club, Local 471, at Frankstown Avenue and Enterprise Street - Charles "Teenie" Harris*](https://collection.cmoa.org/objects/ac18a982-bba9-41d4-a0db-dc4fbd5d7e4d)<br/>
 
 ![Paragraph from the University of Pittsburgh's History of Local 471](./images/history-471.png)
-[History of the Pittsburgh Musicians' Union Local No. 471](http://exhibit.library.pitt.edu/labor_legacy/MusiciansHistory471.htm)
+[*History of the Pittsburgh Musicians' Union Local No. 471*](http://exhibit.library.pitt.edu/labor_legacy/MusiciansHistory471.htm)
 
 ![The African American Jazz Preservation Society of Pittsburgh's Oral History of Local 471](./images/aajazz.png)
-[The African American Jazz Preservation Society of Pittsburgh's Oral History of Local 471](https://historicpittsburgh.org/islandora/object/pitt%3AUS-PPiU-ais199804/viewer)
+[*The African American Jazz Preservation Society of Pittsburgh's Oral History of Local 471*](https://historicpittsburgh.org/islandora/object/pitt%3AUS-PPiU-ais199804/viewer)
 
 ![Frankstown Avenue and Enterprise Street, 2021](./images/frankstown-enterprise.png)
-Frankstown Avenue and Enterprise Street, 2021
+*Frankstown Avenue and Enterprise Street, 2021*
 
 ![Jamil Brookins](./images/jamil-brookins.png)
-[Tribute to East Liberty community leader Jamil Brookins](https://www.maitrimedicinals.com/blog/2020/2/29/tribute-to-east-liberty-community-leader-jamil-brookins)
+[*Tribute to East Liberty community leader Jamil Brookins*](https://www.maitrimedicinals.com/blog/2020/2/29/tribute-to-east-liberty-community-leader-jamil-brookins)
 
 ![Penn Plaza Resident Protest](./images/living-room.png)
-['Living room' blocks East Liberty traffic in Penn Plaza protest](https://www.wtae.com/amp/article/living-room-blocks-east-liberty-traffic-penn-plaza-protest/9114220)
+[*'Living room' blocks East Liberty traffic in Penn Plaza protest*](https://www.wtae.com/amp/article/living-room-blocks-east-liberty-traffic-penn-plaza-protest/9114220)
 
 ![Equitable Development Conference Protest, 2015](https://media1.fdncms.com/pittsburgh/imager/u/original/1834737/photo_1.jpg)
 [*Equitable Development Conference Protest, 2015*](https://www.pghcitypaper.com/Blogh/archives/2015/06/18/officials-say-east-liberty-is-among-best-examples-of-citys-renaissance-residents-disagree)
