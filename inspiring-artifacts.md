@@ -27,7 +27,7 @@
 ![The African American Jazz Preservation Society of Pittsburgh's Oral History of Local 471](./images/aajazz.png)
 [*The African American Jazz Preservation Society of Pittsburgh's Oral History of Local 471*](https://historicpittsburgh.org/islandora/object/pitt%3AUS-PPiU-ais199804/viewer)
 
-![Frankstown Avenue and Enterprise Street, 2021](./images/frankstown-enterprise.png)
+![Frankstown Avenue and Enterprise Street, 2021](./images/frankstown-enterprise.png)<br />
 *Frankstown Avenue and Enterprise Street, 2021*
 
 ![Jamil Brookins](./images/jamil-brookins.png)
