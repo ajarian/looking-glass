@@ -1,3 +1,3 @@
-<img src="./images/recover.jpg" alt="Recover by David Ambarzumjan" height="600px" width="429px" />
+<img src="./images/monument-concept.png" alt="Looking Glass monument concept art by Victoria Elliott" />
 <br/>
-<i>Recover by David Ambarzumjan</i>
+<i>Looking Glass monument concept art by [Victoria Elliott](https://www.instagram.com/blackmagiqueart/)</i>
