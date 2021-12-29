@@ -6,16 +6,53 @@ $sunray: #EDAE49;
 $charcoal: #36413E;
 $blue: #AFD2E9;
 $ivory: #FFF;
-$desktop: 961px;
+$tablet: 768px;
+$laptop-sm: 961px;
+$laptop-md: 1100px;
 
 @import "{{ site.theme }}";
 
 body {
   background-color: $ivory;
   padding: 16px;
+  font-size: 16px;
 
-  @media screen and (min-width: 768px) {
+  @media screen and (min-width: $tablet) {
     padding: 48px;
+  }
+}
+
+.wrapper {
+  @media screen and (min-width: $laptop-md) {
+    width: 1000px;
+  }
+
+  header {
+    padding-right: 0;
+
+    @media screen and (min-width: $laptop-md) {
+      width: 300px;
+    }
+  }
+
+  section {
+    padding: 24px 0;
+    margin-bottom: 24px;
+    border-top: 1px solid $charcoal;
+    border-bottom: 1px solid $charcoal;
+  
+    @media screen and (min-width: $laptop-sm) {
+      border-top: none;
+      border-bottom: none;
+      border-left: 1px solid $charcoal;
+      padding: 60px 0 0 48px;
+      margin-bottom: 0;
+    }
+
+    @media screen and (min-width: $laptop-md) {
+      width: 600px;
+      padding-left: 56px;
+    }
   }
 }
 
@@ -29,21 +66,22 @@ h2, h3 {
 
 hr {
   margin-bottom: 24px;
+  background: $charcoal;
+}
+
+.header-hr {
+  @media screen and (min-width: $laptop-sm) {
+    width: 312px;
+  }
+  
+  @media screen and (min-width: $laptop-md) {
+    width: 344px;
+  }
 }
 
 p {
   margin-bottom: 24px;
   color: $charcoal;
-}
-
-section {
-  padding: 24px 0;
-  margin-bottom: 24px;
-
-  @media screen and (min-width: $desktop) {
-    padding: 6px 0 0 0;
-    margin-bottom: 0;
-  }
 }
 
 .nav-menu-item {
@@ -53,7 +91,7 @@ section {
 .nav-menu-item:last-child {
   margin-bottom: 24px;
 
-  @media screen and (min-width: $desktop) {
+  @media screen and (min-width: $laptop-sm) {
     margin-bottom: 0;
   }
 }
@@ -78,4 +116,24 @@ a {
 
 blockquote {
   font-size: 16px;
+}
+
+.home-content {
+  display: flex;
+  flex-direction: column;
+
+  @media screen and (min-width: $laptop-sm) {
+    height: 650px;
+  }
+}
+
+.home-image {
+  border: 5px solid #000;
+  border-radius: 2px;
+  margin-bottom: 16px;
+}
+
+.home-image-title {
+  text-align: center;
+  color: $charcoal;
 }
