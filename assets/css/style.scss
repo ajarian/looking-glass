@@ -9,6 +9,7 @@ $ivory: #FFF;
 $tablet: 768px;
 $laptop-sm: 961px;
 $laptop-md: 1100px;
+$laptop-lg: 1350px;
 
 @import "{{ site.theme }}";
 
@@ -27,6 +28,10 @@ body {
     width: 1000px;
   }
 
+  @media screen and (min-width: $laptop-lg) {
+    width: 1200px;
+  }
+
   header {
     padding-right: 0;
 
@@ -36,15 +41,15 @@ body {
   }
 
   section {
-    padding: 24px 0;
+    padding: 48px 0;
     margin-bottom: 24px;
-    border-top: 1px solid $charcoal;
-    border-bottom: 1px solid $charcoal;
+    border-top: 4px double $charcoal;
+    border-bottom: 4px double $charcoal;
   
     @media screen and (min-width: $laptop-sm) {
       border-top: none;
       border-bottom: none;
-      border-left: 1px solid $charcoal;
+      border-left: 4px double $charcoal;
       padding: 60px 0 0 48px;
       margin-bottom: 0;
     }
@@ -53,6 +58,11 @@ body {
       width: 600px;
       padding-left: 56px;
     }
+
+    @media screen and (min-width: $laptop-lg) {
+      width: 776px;
+      padding-left: 80px;
+    }
   }
 }
 
@@ -60,7 +70,11 @@ h1 {
   font-size: 32px;
 }
 
-h2, h3 {
+h2 {
+  margin-bottom: 48px;
+}
+
+h3 {
   margin-bottom: 24px;
 }
 
@@ -69,13 +83,18 @@ hr {
   background: $charcoal;
 }
 
+img {
+  border: 5px solid #000;
+  margin-bottom: 8px;
+}
+
 .header-hr {
   @media screen and (min-width: $laptop-sm) {
-    width: 312px;
+    width: 308px;
   }
   
   @media screen and (min-width: $laptop-md) {
-    width: 344px;
+    width: 340px;
   }
 }
 
@@ -123,7 +142,7 @@ blockquote {
   flex-direction: column;
 
   @media screen and (min-width: $laptop-sm) {
-    height: 650px;
+    height: 685px;
   }
 }
 
@@ -136,4 +155,19 @@ blockquote {
 .home-image-title {
   text-align: center;
   color: $charcoal;
+}
+
+.image-with-caption {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.margin-top-48 {
+  margin-top: 48px;
+}
+
+.margin-bottom-48 {
+  margin-bottom: 48px;
 }
