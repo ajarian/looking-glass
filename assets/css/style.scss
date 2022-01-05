@@ -1,6 +1,8 @@
 ---
 ---
 
+/* Color Palette */
+
 $coral: #d97778;
 $sunray: #EDAE49;
 $charcoal: #36413E;
@@ -9,17 +11,24 @@ $ivory: #FFF;
 $tablet: 768px;
 $laptop-sm: 961px;
 $laptop-md: 1100px;
-$laptop-lg: 1350px;
+$laptop-lg: 1344px;
 
 @import "{{ site.theme }}";
+
+/* Layout Styles */
 
 body {
   background-color: $ivory;
   padding: 16px;
   font-size: 16px;
+  margin: 0;
 
   @media screen and (min-width: $tablet) {
     padding: 48px;
+  }
+
+  @media screen and (min-width: $laptop-sm) {
+    padding: 0 24px 48px 24px;
   }
 }
 
@@ -34,9 +43,12 @@ body {
 
   header {
     padding-right: 0;
+    text-align: center;
 
-    @media screen and (min-width: $laptop-md) {
+    @media screen and (min-width: $laptop-sm) {
+      text-align: left;
       width: 300px;
+      padding-top: 48px;
     }
   }
 
@@ -50,7 +62,7 @@ body {
       border-top: none;
       border-bottom: none;
       border-left: 4px double $charcoal;
-      padding: 60px 0 0 48px;
+      padding: 108px 0 0 48px;
       margin-bottom: 0;
     }
 
@@ -66,16 +78,63 @@ body {
   }
 }
 
+footer {
+  text-align: center;
+
+  @media screen and (min-width: $laptop-sm) {
+    text-align: left;
+  }
+}
+
+/* Header Element Styles */ 
+
+.nav-menu-item {
+  margin-bottom: 8px;
+}
+
+.nav-menu-item:last-child {
+  margin-bottom: 24px;
+
+  @media screen and (min-width: $laptop-sm) {
+    margin-bottom: 0;
+  }
+}
+
+.active-link {
+  cursor: default;
+  color: $charcoal !important;
+}
+
+.active-link:hover {
+  color: $charcoal;
+}
+
+.site-description {
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+
+  @media screen and (min-width: $laptop-sm) {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+  }
+}
+
+/* Common Element Styles */ 
+
 h1 {
   font-size: 32px;
 }
 
 h2 {
-  margin-bottom: 48px;
+  margin-bottom: 32px;
+  text-align: center;
 }
 
 h3 {
   margin-bottom: 24px;
+  text-align: center;
 }
 
 hr {
@@ -103,25 +162,8 @@ p {
   color: $charcoal;
 }
 
-.nav-menu-item {
-  margin-bottom: 8px;
-}
-
-.nav-menu-item:last-child {
-  margin-bottom: 24px;
-
-  @media screen and (min-width: $laptop-sm) {
-    margin-bottom: 0;
-  }
-}
-
-.active-link {
-  cursor: default;
-  color: $charcoal !important;
-}
-
-.active-link:hover {
-  color: $charcoal;
+a {
+  color: $coral;
 }
 
 a:hover {
@@ -129,13 +171,18 @@ a:hover {
   color: $coral;
 }
 
-a {
-  color: $coral;
-}
-
 blockquote {
   font-size: 16px;
 }
+
+.image-with-caption {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* Home Page Styles */
 
 .home-content {
   display: flex;
@@ -157,12 +204,7 @@ blockquote {
   color: $charcoal;
 }
 
-.image-with-caption {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
+/* Utility Styles */
 
 .margin-top-48 {
   margin-top: 48px;
