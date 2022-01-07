@@ -8,6 +8,16 @@
 
 ![Mocked design of point of interest content](./images/mocks/poi-content.png)
 
+### Early AR Tests: Model Manipulation and Interactivity
+
+<p style="text-align: center;">
+  <image src="./images/wip/billboard-test.gif" alt="Animated gif depicting a 3D billboard model being manipulated within an AR scene" width="500px" height="800px" />
+</p>
+
+<p style="text-align: center;">
+  <image src="./images/wip/interactive-test.gif" alt="Animated gif depicting interactions with text objects in an AR scene" width="500px" height="800px" />
+</p>
+
 ### Theory of Change Mapping
 
 ![My handwritten answers to questions posed by a theory of change template](./images/wip/theory-of-change.jpg)
