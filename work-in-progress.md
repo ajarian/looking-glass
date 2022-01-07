@@ -11,7 +11,7 @@
 ### Early AR Tests: Model Manipulation and Interactivity
 
 <p style="text-align: center;">
-  <image src="./images/wip/billboard-test.gif" alt="Animated gif depicting a 3D billboard model being manipulated" width="500px" height="800px" />
+  <image src="./images/wip/billboard-test.gif" alt="Animated gif depicting a 3D billboard model being manipulated within an AR scene" width="500px" height="800px" />
 </p>
 
 <p style="text-align: center;">
