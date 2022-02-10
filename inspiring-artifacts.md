@@ -64,6 +64,13 @@
 </p>
 
 <p class="image-with-caption margin-bottom-48">
+  <img alt="Photo of Shadow Lounge founder Justin Strong" src="./images/shadow-lounge.png" />
+  <a href="https://www.pghcitypaper.com/pittsburgh/shadow-lounge-prepares-to-close-after-over-a-decade-in-a-changing-neighborhood/Content?oid=1632528" target="_blank">
+    <i>Shadow Lounge prepares to close after over a decade in a changing neighborhood</i> - Pittsburgh City Paper, 2013
+  </a>
+</p>
+
+<p class="image-with-caption margin-bottom-48">
   <img alt="Photo of Jamil Brookins" src="./images/jamil-brookins.png" />
   <a href="https://www.maitrimedicinals.com/blog/2020/2/29/tribute-to-east-liberty-community-leader-jamil-brookins" target="_blank">
     <i>Tribute to East Liberty community leader Jamil Brookins</i> - Markita Wilburn
