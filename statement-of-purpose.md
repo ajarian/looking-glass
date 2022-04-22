@@ -13,4 +13,4 @@ The idea for Looking Glass sprouted from my awareness of this multilayered strug
 
 While I believe that many people stand to benefit from engaging with artifacts that tell a fuller story about East Liberty, my primary goal is to help Black Pittsburghers of all ages access a more expansive historical archive. It is my hope that this form of discovery and remembrance would help us cling to the truth that the beauty, strength and resilience of our forebears continues to dwell in us.
 
-- Adrian Jones, 6/3/21
+<span>- Adrian Jones, 6/3/21</span>
